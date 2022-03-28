@@ -1,5 +1,5 @@
 # Workout Tracker
-This project will highlight your knowledge and skill when building full stack application. The goal with this application is to make a super simple workout tracker. 
+This project will highlight your knowledge and skills when building full stack applications. The goal with this application is to make a super simple workout tracker. 
 
 ## Requirements
 
