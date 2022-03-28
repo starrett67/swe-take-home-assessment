@@ -16,7 +16,7 @@ This project will highlight your knowledge and skills when building full stack a
 - Must use some sort of persistence storage for exercise data
 
 #### Tech Stack
-- Must use javascript framework
+- Must be written in javascript
 - Other then that use whatever you want just dont copy other peoples code.
 
 ## Additonal Notes
