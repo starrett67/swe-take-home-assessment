@@ -26,4 +26,4 @@ This project will highlight your knowledge and skills when building full stack a
 - There is no time constraint! Everyone has busy lives so take your time. The faster you get it done the faster we move on to an interview but dont rush and do a bad job.
 
 ## Sumbitting your assignment
-- Simply upload your project to github public repoistory and provide the link to the recruiter
+- Simply upload your project to a github public repoistory and provide the link to the recruiter
