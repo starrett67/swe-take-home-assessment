@@ -4,7 +4,7 @@ This project will highlight your knowledge and skill when building full stack ap
 ## Requirements
 
 ### Front End
-- The front end should be able to add exercises
+- The front end should be able to add and view exercises
 - Exercises should have a name and a list of sets
 - A set can consist of the time spend on the set or it can be a combination of weight + reps
 - User should be able to save and view previous exercises
