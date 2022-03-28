@@ -24,6 +24,7 @@ This project will highlight your knowledge and skills when building full stack a
 - Bonus points if you can get the entire app up and running with one command! Front-end + back-end + database
 - Dont go too crazy! This assigment is only meant to take a few hours. We want to get to know what kind of developer you are.
 - There is no time constraint! Everyone has busy lives so take your time. The faster you get it done the faster we move on to an interview but dont rush and do a bad job.
+- If you decide to use a boilerplate project to get started, please make sure all unused code/scripts are removed from your project
 
-## Sumbitting your assignment
+## Submitting your assignment
 - Simply upload your project to a github public repoistory and provide the link to the recruiter
